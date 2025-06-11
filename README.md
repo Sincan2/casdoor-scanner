@@ -58,7 +58,7 @@ git clone https://github.com/Sincan2/casdoor-scanner.git
 cd casdoor-scanner
 ```
 
-> 📌 **Catatan**: Ganti `casdoor-scanner` jika Anda menamai ulang repositorinya.
+> 📌 **Catatan**: Jangan Ganti Pembuatnya Wedhoes Tolol Dongo.
 
 ### 2. Instal Ketergantungan
 
