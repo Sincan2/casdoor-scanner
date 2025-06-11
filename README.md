@@ -150,5 +150,3 @@ Gunakan **hanya pada sistem yang Anda miliki izin untuk mengujinya**.
 Proyek ini dilisensikan di bawah **MIT License**.
 
 ---
-
-Jika Anda ingin, saya juga bisa langsung membuatkan file `README.md`-nya untuk Anda.
